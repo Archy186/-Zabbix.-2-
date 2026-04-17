@@ -10,6 +10,7 @@
 *   **Элементы данных (Items):**
     *   `CPU Utilization` (Ключ: `system.cpu.util[all,idle]`)
     *   `RAM Utilization` (Ключ: `vm.memory.size[pavailable]`)
+
 ![Задание 1](Задание 1.png)
 
 ## Задания 2-3: Добавление хостов и привязка шаблонов
