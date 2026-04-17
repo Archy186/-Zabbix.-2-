@@ -24,6 +24,9 @@
 | :--- | :--- | :--- | :--- |
 | **khazikhanov-1** | 127.0.0.1:10050 | ZBX (Зеленый) | `Linux by Zabbix agent`, `Custom CPU RAM Monitor` |
 | **khazikhanov-2** | 127.0.0.1:10052 | ZBX (Зеленый) | `Linux by Zabbix agent`, `Custom CPU RAM Monitor` |
+| :--- | :--- | :--- | :--- |
+
+
 ![Задание 1](2-1.png)
 ![Задание 1](2-2.png)
 ![Задание 1](2-3.png)
